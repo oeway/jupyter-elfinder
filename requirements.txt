@@ -1,6 +1,6 @@
 aiofiles==23.2.1
 elfinder-client==2.1.55a6
-fastapi==0.99.1
+fastapi==0.109.0
 jinja2==3.1.2
 pathvalidate==3.1.0
 pillow==9.5.0
