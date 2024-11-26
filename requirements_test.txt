@@ -2,4 +2,4 @@ pytest==7.4.2
 pytest-cov==4.1.0
 pytest-timeout==2.1.0
 # tests require sub-dependencies of starlette
-httpx==0.24.1
+httpx==0.26.0
