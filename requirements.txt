@@ -6,6 +6,6 @@ pathvalidate==3.1.0
 pillow==9.5.0
 python-dotenv==0.21.1
 python-multipart==0.0.6
-typing_extensions==4.7.1
+typing_extensions==4.9.0
 uvicorn[standard]==0.22.0
 pydantic==1.10.12
